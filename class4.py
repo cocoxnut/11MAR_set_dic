@@ -1,4 +1,4 @@
-set = {"cat", "donkey", "spaceship", 123, 89}
-set.add('batman')
-print(set.pop())
-print(set)
+setx = {"cat", "donkey", "spaceship", 123, 89}
+setx.add('batman')
+print(setx.pop())
+print(setx)
